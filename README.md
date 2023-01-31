@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there! 👋
+
+I'm Daniel, a CS student at Columbia University SEAS '23.
+Here's my [Linkedin profile](https://www.linkedin.com/in/daniel-greco-8345b3133): 
+
+- 🔭 I’m currently working on setting up a web scraping library for my Open Source Development course.
 
 <!--
 **dag2226/dag2226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
