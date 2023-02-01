@@ -3,7 +3,11 @@
 I'm Daniel, a CS student at Columbia University SEAS '23.
 Here's my [Linkedin profile](https://www.linkedin.com/in/daniel-greco-8345b3133): 
 
-- 🔭 I’m currently working on setting up a web scraping library for my Open Source Development course.
+- 🔭 I'm an incoming SDE at Amazon SCOT.
+- 🌱 I’m currently working on setting up a web scraping library for my Open Source Development course.
+- ✨ I am interested in back-end and full stack development.
+ 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dag2226)](https://git.io/streak-stats)
 
 <!--
 **dag2226/dag2226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
