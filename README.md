@@ -1,11 +1,11 @@
 ### Hi there! 👋
 
-I'm Daniel, a CS student at Columbia University SEAS '23.
+I'm Daniel, a CS graduate from Columbia University SEAS '23.
 Here's my [Linkedin profile](https://www.linkedin.com/in/daniel-greco-8345b3133): 
 
 - 🔭 I'm an incoming SDE at Amazon SCOT.
-- 🌱 I’m currently working on setting up a web scraping library for my Open Source Development course.
-- ✨ I am interested in back-end and full stack development.
+- 🌱 I'm currently working on learning Go.
+- ✨ I'm interested in full stack development and computer vision.
  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dag2226)](https://git.io/streak-stats)
 
